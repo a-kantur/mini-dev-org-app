@@ -1,5 +1,5 @@
 # Automate running the mini-dev-org-app agent
-$projectPath = "C:\Users\anna_\OneDrive\Documents\L&D\Vibe Coding projects\mini-AI-dev-org\mini-dev-org-app"
+$projectPath = "your path"
 
 # Navigate to project
 Set-Location $projectPath
